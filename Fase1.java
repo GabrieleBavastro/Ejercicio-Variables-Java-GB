@@ -7,7 +7,7 @@ public class Fase1 {
 	int month = 7;
 	int year = 1984;
 		String fullName = surname1 + " " + surname2 + " " + name;
-		System.out.println("Full Name "+ fullName);
+		System.out.println("Full Name: "+ fullName);
 		System.out.println("Birthday: "+ day + "/" + (month) + "/" + year);
    }
 }
