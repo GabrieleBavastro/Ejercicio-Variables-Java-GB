@@ -4,9 +4,7 @@ public class Fase4 {
 	String surname1 = "Bavastro";
 	String surname2 = "Navone";
 	String stringBooleanTrue = " it's your birthday and it's a leap year - true";
-	String stringBooleanFalse = " it's your birthday and it's a leap year - false";
-	boolean b1 = true;
-	boolean b2 = false;	
+	String stringBooleanFalse = " it's your birthday and it's a leap year - false";	
 	int leapYearReference = 1948;
 	int yearOfBirth = 1984;
 	int leapYearloop = 4;
